@@ -1,6 +1,6 @@
 # Magento 2 Lazy Loading Extension by MageTop
 
-**Lazy Loading** is one of the most feature-rich plugins which allows your website to run faster than its original speed. It does so by optimizing the images of your website. The plugin is extremely popular and is used by thousands of users from all across the world. It will reduce the size of your images to 80% of its original size. The plugin helps your magento website loads extremely fast.
+**Magento 2 Lazy Loading Extension** is one of the most feature-rich plugins which allows your website to run faster than its original speed. It does so by optimizing the images of your website. The plugin is extremely popular and is used by thousands of users from all across the world. It will reduce the size of your images to 80% of its original size. The plugin helps your magento website loads extremely fast.
 
 ## Highlight features
 
